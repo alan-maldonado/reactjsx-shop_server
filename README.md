@@ -12,3 +12,5 @@ To install and run simply follow these steps:
 5)  Build your test data right in the server.js file. Create new endpoints as needed
 
 ![React Shop API](reactjs-server.png "React Shop API")
+
+To setup client go to the following repo [reactjsx-shop](https://github.com/alan-maldonado/reactjsx-shop)
